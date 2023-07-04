@@ -1,0 +1,58 @@
+h1{
+    padding-top: 30px;
+}
+form{
+    margin-top: 0px;
+    border: none;
+}
+#rT{
+    margin-top: 10px;
+}
+textarea{
+    resize: none;
+    padding: 10px 25px 70px 25px;
+    width: 220px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 0.8px;
+    border-radius: 10px;
+    overflow: hidden;
+    font-size: 14px;
+}
+#divTar{
+    border: 2px solid rgb(255, 255, 255, 0.425);
+    border-radius: 10px;
+    width: 60%;
+    margin: 10px auto;
+}
+#pErro{
+    color: white;
+    padding-top: 10px;
+}
+#pTar{
+    padding: 15px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#bET{
+    background-color: transparent;
+    color: #276fdb;
+}
+#bCT{
+    padding: 7px;
+    width: 80px;
+    margin-bottom: 10px;
+}
+#logout{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #004dc0b7;
+    position: fixed;
+    top: 80%;
+    left: 3%;
+}
+#logout:hover{
+    background-color: #0056d6ef;
+    transition: .4s;
+    transform: none;
+}
